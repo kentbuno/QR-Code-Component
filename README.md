@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/kent5205/QR-Code-Component)
-- Live Site URL: (https://qr-code-component-8g2b.vercel.app/)
+- Solution URL: (https://github.com/kentbuno/QR-Code-Component)
+- Live Site URL: (https://qr-code-component-kentbuno.vercel.app/)
 
 ### Built with
 
@@ -105,7 +105,7 @@ main {
 
 ## Author
 
-- Frontend Mentor - [@kent5205](https://www.frontendmentor.io/profile/kent5205)
+- Frontend Mentor - [@kent5205](https://www.frontendmentor.io/profile/kentbuno)
 
 ## Acknowledgments
 
