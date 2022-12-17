@@ -105,7 +105,7 @@ main {
 
 ## Author
 
-- Frontend Mentor - [@kent5205](https://www.frontendmentor.io/profile/kentbuno)
+- Frontend Mentor - [@kentbuno](https://www.frontendmentor.io/profile/kentbuno)
 
 ## Acknowledgments
 
